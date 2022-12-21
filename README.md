@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-Uma janela modal usada em sites para fazer com que os usuários façam ou vejam algo específico. 
+Um texto que tem um background em video. 
 
 ## Layout web
 ![Mobile 1](https://github.com/evandrolucas60/readme-assets-repository/blob/main/Texto%20com%20background%20em%20v%C3%ADdeo%20-%20Google%20Chrome%202022-12-19%2012-35-44.gif)
